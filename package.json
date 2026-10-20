@@ -1,0 +1,12 @@
+{
+  "name": "mental-math-widget",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Тренажёр устного счёта на Web Components",
+  "scripts": {
+    "test": "node --test tests/widget.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
